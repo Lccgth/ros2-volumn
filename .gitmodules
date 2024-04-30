@@ -1,0 +1,3 @@
+[submodule "src/rosbridge_suite"]
+	path = src/rosbridge_suite
+	url = https://github.com/Lccgth/rosbridge_suite.git
